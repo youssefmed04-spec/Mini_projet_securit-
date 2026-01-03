@@ -1,0 +1,3 @@
+Ceci est une simulation.
+Vos fichiers ne sont pas cryptés.
+Envoyez 0 Bitcoin.

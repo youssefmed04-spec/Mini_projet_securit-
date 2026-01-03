@@ -1,0 +1,18 @@
+Le concept : Le Cheval de Troie (Trojan) Tu vas créer une application "double face" :
+
+
+Face Visible (Légitime) : Une application utile (ici, une Calculatrice) pour que l'utilisateur ait confiance.
+
+
+Face Cachée (Malveillante) : Un programme qui tourne en arrière-plan sans que l'utilisateur le sache (Silent Execution).
+
+Ce que le "virus" va faire (simulé) :
+
+
+Persistance : Il essaie de s'installer pour redémarrer avec l'ordinateur.
+
+
+Propagation : Il se copie ailleurs sur le disque.
+
+
+Ransomware (Faux) : Il scanne les fichiers de l'utilisateur et laisse une fausse note de rançon, sans rien détruire.
